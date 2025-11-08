@@ -7,14 +7,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanxzayn-lua&show_icons=true&theme=tokyonight" alt="Zayn's GitHub stats" />
+<p>
+  🔹 Always exploring new technologies and building cool things.  
+  <br>
+  🔹 Focused on writing clean, efficient, and creative code.  
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanxzayn-lua&theme=tokyonight" alt="Zayn's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanxzayn-lua&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="left">
+  <img src="https://img.shields.io/github/followers/hassanxzayn-lua?label=Followers&style=flat" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/hassanxzayn-lua?label=Stars&style=flat" alt="GitHub Stars" />
 </p>
