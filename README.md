@@ -8,7 +8,3 @@
 ---
 
 > "Just moving through time, trying to make sense of it."
-
-<p align="left">
-  <img src="https://img.shields.io/github/followers/hassanxzayn-lua?label=Followers&style=flat" alt="GitHub Followers" />
-</p>
