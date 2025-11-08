@@ -7,13 +7,8 @@
 
 ---
 
-<p>
-  🔹 Always exploring new technologies and building cool things.  
-  <br>
-  🔹 Focused on writing clean, efficient, and creative code.  
-</p>
+> "Just moving through time, trying to make sense of it."
 
 <p align="left">
   <img src="https://img.shields.io/github/followers/hassanxzayn-lua?label=Followers&style=flat" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/hassanxzayn-lua?label=Stars&style=flat" alt="GitHub Stars" />
 </p>
